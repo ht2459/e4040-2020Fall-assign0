@@ -15,7 +15,7 @@ Detailed instructions how to submit this assignement/homework will be posted aft
 
 ```            
 |   .gitignore
-|   Assignment 0 solution.ipynb
+|   Assignment 0.ipynb
 |   README.md
 |   requirements.txt
 ```
