@@ -18,4 +18,10 @@ Detailed instructions how to submit this assignement/homework will be posted aft
 |   Assignment 0.ipynb
 |   README.md
 |   requirements.txt
-```
+|   
++---.ipynb_checkpoints
+\---figures
+        ht2459_gcp_work_example_screenshot_1.PNG
+        ht2459_gcp_work_example_screenshot_2.PNG
+        ht2459_gcp_work_example_screenshot_3.PNG
+``` 
